@@ -1,4 +1,4 @@
-### note-plug 书签
+### note-plugin 书签
 
 [点击预览本项目](http://ivan.zhj.net.gitee.io/note-plug/ "点击预览本项目")
 
@@ -29,4 +29,4 @@
 `npm run dev/yarn dev` // 启动编写代码  
   
 
-npm run build/yarn build // 打包发布
+`npm run build/yarn build` // 打包发布
