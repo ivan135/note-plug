@@ -18,13 +18,13 @@
 
 #### How to use
 
-1. 克隆下本项目后,使用cmd或者git bash
+1.克隆下本项目后,使用cmd或者git bash
 
 `npm i/yarn` 安装依赖  
 
 `cnpm i -d node-sass` 使用cnpm安装node-sass
 
-2. 进入project目录`cd project`    
+2.进入project目录`cd project`    
   
 `npm run dev/yarn dev` // 启动编写代码  
   
